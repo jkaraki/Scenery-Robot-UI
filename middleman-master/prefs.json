@@ -1,0 +1,9 @@
+{
+    "robot": [
+        { "ip": "192.168.0.000", "speed": 50 }
+      ],
+      "comments": [
+        { "id": 1, "body": "some comment", "postId": 1 }
+      ],
+      "profile": { "name": "typicode" }
+}
